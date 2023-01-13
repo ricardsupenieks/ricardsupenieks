@@ -1,7 +1,7 @@
 # <div align="center"> Welcome to my page! </div>
 ### I'm <a href="https://www.linkedin.com/in/ricards-upenieks/">Ričards</a> <span font-size=4> :handshake: </span>
 
-A passionate software developer from Latvia with big dreams specializing in back-end development
+:trident: &nbsp; A passionate software developer from Latvia with big dreams specializing in back-end development
 
 ## Current project: 
 <a href="https://github.com/ricardsupenieks/Latbank">**Latbank: Banking & Crypto trading**</a>
