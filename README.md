@@ -1,11 +1,16 @@
 # <div align="center"> Welcome to my page! </div>
 ### I'm <a href="https://www.linkedin.com/in/ricards-upenieks/">Ričards</a> <span font-size=4> :handshake: </span>
 
-A passionate software developer from Latvia with big dreams specializing in back-end development. <br>
-My hobbies include programming, working out, playing guitar, and traveling.
-
+<ul>
+  <li>
+    A passionate software developer from Latvia with big dreams specializing in back-end development. <br>
+    My hobbies include programming, working out, playing guitar, and traveling.
+    Currently learning Vue.js
+  </li>
+</ul>
 ## Current project: 
 <a href="https://github.com/ricardsupenieks/Latbank">**Latbank: Banking & Crypto trading**</a>
+##
 
 ### <p align="center"> Tech stack </p>
 
