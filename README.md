@@ -1,4 +1,4 @@
-### Hey, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">, I'm Ričards
+### Hey, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"> I'm Ričards
 
 Passionate software developer specializing in back-end development.
 
