@@ -1,5 +1,5 @@
 ## Welcome to my page!
-I'm Ričards Upenieks :handshake:	
+I'm <a href="https://www.linkedin.com/in/ricards-upenieks/">Ričards</a> :handshake:	
 
 Passionate software developer specializing in back-end development.
 
