@@ -4,10 +4,10 @@
 :trident: &nbsp; A passionate software developer from Latvia with big dreams specializing in back-end developement
 
 ### Currently learning:
-<a href="https://vuejs.org/">**VueJS**</a>
+<a href="https://vuejs.org/" align="left">**VueJS**</a>
 
 ### Latest project: 
-<a href="https://github.com/ricardsupenieks/Todo-vue">**Todo Vue**</a>
+<a href="https://github.com/ricardsupenieks/Todo-vue" align="left">**Todo Vue**</a>
 ##
 
 ### <p align="center"> Tech stack </p>
