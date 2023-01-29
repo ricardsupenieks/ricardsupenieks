@@ -1,7 +1,10 @@
 # <div align="center"> Welcome to my page! </div>
 ### I'm <a href="https://www.linkedin.com/in/ricards-upenieks/">Ričards</a> <span font-size=4> :handshake: </span>
 
-:trident: &nbsp; A passionate software developer from Latvia with big dreams specializing in back-end developement but slowly learning to become a full stack developer
+:trident: &nbsp; A passionate software developer from Latvia with big dreams specializing in back-end developement
+
+## Currenyly learning:
+**VueJS**
 
 ## Latest project: 
 <a href="https://github.com/ricardsupenieks/Todo-vue">**Todo Vue**</a>
