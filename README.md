@@ -3,8 +3,8 @@
 
 :trident: &nbsp; A passionate software developer from Latvia with big dreams specializing in back-end development
 
-## Current project: 
-<a href="https://github.com/ricardsupenieks/Delivery-Service-site">**Delivery Service site**</a>
+## Latest project: 
+<a href="https://github.com/ricardsupenieks/Todo-vue">**Delivery Service site**</a>
 ##
 
 ### <p align="center"> Tech stack </p>
