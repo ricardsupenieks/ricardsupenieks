@@ -3,7 +3,7 @@
 
 :trident: &nbsp; A passionate software developer from Latvia with big dreams specializing in back-end developement
 
-## Currenyly learning:
+## Currently learning:
 <a href="https://vuejs.org/">**VueJS**</a>
 
 ## Latest project: 
