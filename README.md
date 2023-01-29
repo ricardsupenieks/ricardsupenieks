@@ -4,7 +4,7 @@
 :trident: &nbsp; A passionate software developer from Latvia with big dreams specializing in back-end development
 
 ## Latest project: 
-<a href="https://github.com/ricardsupenieks/Todo-vue">**Todo List**</a>
+<a href="https://github.com/ricardsupenieks/Todo-vue">**Todo Vue**</a>
 ##
 
 ### <p align="center"> Tech stack </p>
