@@ -1,5 +1,5 @@
 # <div align="center"> Welcome to my page! </div>
-### I'm <a href="https://www.linkedin.com/in/ricards-upenieks/">Ričards</a> <span font-size=4> :handshake: </span>
+## I'm <a href="https://www.linkedin.com/in/ricards-upenieks/">Ričards</a> <span font-size=4> :handshake: </span>
 
 :trident: &nbsp; A passionate software developer from Latvia with big dreams specializing in back-end developement
 
