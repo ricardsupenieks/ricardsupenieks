@@ -7,7 +7,7 @@
 <a href="https://vuejs.org/" align="left">**VueJS**</a>
 
 ### Latest project: 
-<a href="https://github.com/ricardsupenieks/Todo-vue" align="left">**Todo Vue**</a>
+<a href="https://github.com/ricardsupenieks/rick-and-morty-characters" align="left">**Rick and Morty Character site**</a>
 ##
 
 ### <p align="center"> Tech stack </p>
