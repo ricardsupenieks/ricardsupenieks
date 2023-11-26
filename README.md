@@ -4,7 +4,7 @@
 :trident: &nbsp;  Software developer
 
 ### Currently learning:
-<p align="left">**Python**</p>
+<a href="https://www.python.org/about/" align="left">**Python**</a>
 
 ### Latest project: 
 <a href="https://github.com/ricardsupenieks" align="left">**Work in progress**</a>
