@@ -18,7 +18,7 @@
 
 ### <p align="center"> Softwares </p>
 
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="PS logo" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="Illustrator logo" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" alt="PhpStorm logo" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS logo" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img 
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="PS logo" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" alt="PhpStorm logo" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS logo" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img 
 
 
 <!--
