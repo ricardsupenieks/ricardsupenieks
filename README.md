@@ -1,7 +1,7 @@
 # <div align="center"> Welcome to my page! </div>
 ## I'm <a href="https://www.linkedin.com/in/ricards-upenieks/">Ričards</a> <span font-size=4> :handshake: </span>
 
-:trident: &nbsp;  Software developer
+Software developer
 
 ### Currently learning:
 <a href="https://www.python.org/about/" align="left">**Python**</a>
