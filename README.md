@@ -13,13 +13,16 @@
 
 ### <p align="center"> Tech stack </p>
 
-<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" width="50" height="50" />&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel logo" width="50" height="50" />&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="50" height="50" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="50" height="50" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML logo" width="50" height="50" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind logo" width="50" height="50" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJs logo" width="50" height="50" />&nbsp;</div>
+<div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel logo" width="50" height="50" />&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony logo" width="50" height="50" />&nbsp;<img                                     src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="50" height="50" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind logo" width="50" height="50" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJs logo" width="50" height="50" />
+</div>
 
 
 ### <p align="center"> Softwares </p>
 
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="PS logo" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" alt="PhpStorm logo" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS logo" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img 
-
+<div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="PS logo" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" alt="PhpStorm logo" width="50" height="50" />&nbsp;&nbsp;&nbsp;<img             src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS logo" width="50" height="50" />
+</div
 
 <!--
 **ricardsupenieks/ricardsupenieks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
