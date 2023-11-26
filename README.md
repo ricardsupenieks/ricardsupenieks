@@ -4,10 +4,11 @@
 :trident: &nbsp;  Software developer
 
 ### Currently learning:
-<a href="https://vuejs.org/" align="left">**VueJS**</a>
+<p align="left">**Python**</p>
 
 ### Latest project: 
-<a href="https://github.com/ricardsupenieks/E-Commerce-store" align="left">**E-Commerce Store**</a>
+<a href="https://github.com/ricardsupenieks" align="left">**Work in progress**</a>
+
 ##
 
 ### <p align="center"> Tech stack </p>
