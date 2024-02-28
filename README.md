@@ -14,7 +14,7 @@ Software developer
 ### <p align="center"> Tech stack </p>
 
 <div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel logo" width="50" height="50" />&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony logo" width="50" height="50" />&nbsp;<img                                     src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="50" height="50" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind logo" width="50" height="50" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJs logo" width="50" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel logo" width="50" height="50" />&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony logo" width="50" height="50" />&nbsp;<img                                     src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="50" height="50" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind logo" width="50" height="50" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJs logo" width="50" height="50" />
 </div>
 
 
